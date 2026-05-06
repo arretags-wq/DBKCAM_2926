@@ -92,7 +92,7 @@ const Solution: React.FC = () => {
               className="rounded-2xl overflow-hidden border border-white/5 shadow-2xl aspect-[16/10]"
             >
               <img 
-                src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/fun_atividades.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9mdW5fYXRpdmlkYWRlcy5qcGVnIiwiaWF0IjoxNzY4NTExNzE4LCJleHAiOjE4MDAwNDc3MTh9.AMvkQQc1N7xN2StMCvi9G1SvIakIG0wmXK147UNeqgo" 
+                src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/fun_atividades.jpeg" 
                 alt="Treino Técnico" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-1000"
               />
@@ -106,7 +106,7 @@ const Solution: React.FC = () => {
                 className="aspect-square rounded-2xl overflow-hidden border border-white/5 shadow-2xl"
               >
                 <img 
-                  src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/ministrada.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9taW5pc3RyYWRhLndlYnAiLCJpYXQiOjE3Njg1MTE1MDMsImV4cCI6MTgwMDA0NzUwM30.Ls3FGF9VtvQohTztdLaLCPQCpFfyNo8Dtk8OqDgwUQQ" 
+                  src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/ministrada.webp" 
                   alt="Natureza Itarema" 
                   className="w-full h-full object-cover"
                 />
@@ -118,7 +118,7 @@ const Solution: React.FC = () => {
                 className="aspect-square rounded-2xl overflow-hidden border border-white/5 shadow-2xl"
               >
                 <img 
-                  src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/fun_pratica.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9mdW5fcHJhdGljYS5qcGVnIiwiaWF0IjoxNzY4NTExNjUwLCJleHAiOjE4MDAwNDc2NTB9.AH8komFvoTRMnfNdyIdvNd6vrukM1bGJ1ALV8ErvRKk" 
+                  src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/fun_pratica.jpeg" 
                   alt="Pousada Kiriri" 
                   className="w-full h-full object-cover"
                 />
@@ -132,7 +132,7 @@ const Solution: React.FC = () => {
               className="relative rounded-2xl overflow-hidden border border-white/5 shadow-2xl aspect-[21/9]"
             >
               <img 
-                src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/tarma2.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi90YXJtYTIuanBlZyIsImlhdCI6MTc2ODUxMTE2MywiZXhwIjoxODAwMDQ3MTYzfQ.XweOfoxGc2-ldlyGBgL-DybpVvvCsO0nd6iPWadoekQ" 
+                src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/tarma2.jpeg" 
                 alt="Experiência DBK Camp" 
                 className="w-full h-full object-cover brightness-[0.9]"
               />
@@ -154,7 +154,7 @@ const Solution: React.FC = () => {
               <div className="relative group">
                 <div className="absolute inset-0 bg-brand-orange/20 rounded-2xl blur-3xl group-hover:bg-brand-orange/30 transition-all opacity-40"></div>
                 <img 
-                  src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/fotoricardo.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9mb3RvcmljYXJkby53ZWJwIiwiaWF0IjoxNzY4NDk3OTY5LCJleHAiOjE4MDAwMzM5Njl9.0HfAIIWsIm2RQx0GKgcyL1O-HobNJCsHKSsKOeeM1u0" 
+                  src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/fotoricardo.webp" 
                   alt="Ricardo Costa" 
                   className="w-full aspect-[4/5] object-cover rounded-2xl border border-white/10 shadow-2xl relative z-10 grayscale hover:grayscale-0 transition-all duration-700"
                 />

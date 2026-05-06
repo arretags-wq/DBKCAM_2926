@@ -73,7 +73,7 @@ const Venue: React.FC = () => {
           >
             <div className="w-full aspect-[16/9] overflow-hidden rounded-2xl shadow-2xl border border-white/5">
                <img 
-                src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/abertura.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9hYmVydHVyYS53ZWJwIiwiaWF0IjoxNzY4NTAyNjc5LCJleHAiOjE4MDAwMzg2Nzl9.stvSJycXLOZyHa3KgQwR2P8lKhlyB03HnmcilOCMD1U" 
+                src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/abertura.webp" 
                 alt="Vista da Ponte Kiriri" 
                 className="w-full h-full object-cover transition-transform duration-1000 hover:scale-105" 
               />
@@ -82,7 +82,7 @@ const Venue: React.FC = () => {
             <div className="grid grid-cols-2 gap-6">
               <div className="aspect-[4/3] overflow-hidden rounded-2xl shadow-2xl border border-white/5">
                  <img 
-                  src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/pousada-kiriri-entrada.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9wb3VzYWRhLWtpcmlyaS1lbnRyYWRhLmpwZyIsImlhdCI6MTc2ODUwMDU2NSwiZXhwIjoxODAwMDM2NTY1fQ.DzINARfp7WsXjhe7nJf6tDlHgWdN4QRr_CNfMdCUHLM" 
+                  src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/pousada-kiriri-entrada.jpg" 
                   alt="Entrada Pousada" 
                   className="w-full h-full object-cover transition-transform duration-1000 hover:scale-105" 
                 />
@@ -90,7 +90,7 @@ const Venue: React.FC = () => {
 
               <div className="aspect-[4/3] overflow-hidden rounded-2xl shadow-2xl border border-white/5">
                  <img 
-                  src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/Pousada-Kiriri-3009_3.1.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9Qb3VzYWRhLUtpcmlyaS0zMDA5XzMuMS5wbmciLCJpYXQiOjE3Njg0OTk5OTAsImV4cCI6MTgwMDAzNTk5MH0.TGxBihsdS-RH4wiEbzy7g_APXfWHTuonFQUuagVUQFU" 
+                  src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/Pousada-Kiriri-3009_3.1.png" 
                   alt="Pousada à Noite" 
                   className="w-full h-full object-cover transition-transform duration-1000 hover:scale-105" 
                 />

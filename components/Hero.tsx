@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
     document.getElementById('problema')?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  const heroImageUrl = "https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/abertura.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9hYmVydHVyYS53ZWJwIiwiaWF0IjoxNzY4NDg3NzM4LCJleHAiOjE4MDAwMjM3Mzh9.tYHydJ-0_A_kDV3UVAOak2mjg2JkfzLPm_z6-KrA1Y4";
+  const heroImageUrl = "https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/abertura.webp";
 
   return (
     <>
@@ -39,7 +39,7 @@ const Hero: React.FC = () => {
             className="text-center px-6"
           >
             <img 
-              src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/dbk_camp.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9kYmtfY2FtcC5zdmciLCJpYXQiOjE3Njg0MTYzODksImV4cCI6MTc5OTk1MjM4OX0.L-vYydtGQmmYY7E6_zZ3JyHQO3ffiN19C5q9s1Me7O0" 
+              src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/dbk_camp.svg" 
               alt="DBK Camp 2026 Logo" 
               className="h-40 md:h-64 lg:h-72 w-auto object-contain drop-shadow-[0_0_30px_rgba(0,0,0,0.8)]"
               onError={(e) => {
@@ -117,7 +117,7 @@ const Hero: React.FC = () => {
             {/* Right Group: Logo */}
             <div className="shrink-0">
                <img 
-                 src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/dbk_logo_wbg.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9kYmtfbG9nb193Ymcuc3ZnIiwiaWF0IjoxNzY4NDE1MjQ3LCJleHAiOjE3OTk5NTEyNDd9._Wa5ZtDJ8TzScGHv2-vntYEJpgGDYhSv772_rehs3VU" 
+                 src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/dbk_logo_wbg.svg" 
                  alt="DBK" 
                  className="h-7 md:h-12 w-auto object-contain opacity-90"
                  onError={(e) => { e.currentTarget.style.display = 'none'; }}

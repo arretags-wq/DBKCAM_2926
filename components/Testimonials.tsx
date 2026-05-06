@@ -60,7 +60,7 @@ const Testimonials: React.FC = () => {
 
         <div className="mt-16 rounded-2xl overflow-hidden h-64 relative shadow-2xl">
           <img 
-            src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/gelera.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9nZWxlcmEuanBlZyIsImlhdCI6MTc2ODQ5ODk0NiwiZXhwIjoxODAwMDM0OTQ2fQ.aoZ7-OuCBXU_gIFUeWFqerG6V4eTr74z_LUnloW36l4" 
+            src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/gelera.jpeg" 
             alt="Grupo DBK Camp" 
             className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
           />

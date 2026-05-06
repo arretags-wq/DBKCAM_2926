@@ -61,7 +61,7 @@ const Problem: React.FC = () => {
           className="relative h-[400px] md:h-[650px] rounded-2xl overflow-hidden group shadow-2xl shadow-black/50 order-1 md:order-2 border border-white/5"
         >
           <img 
-            src="https://pxiwhxadrcsnnrkzkjtp.supabase.co/storage/v1/object/sign/DBKCAMP2026/aulainterna.webp?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lYjU2Y2I0OC04YjBjLTRlMGUtYWVlZi1lOWM0MmRhMTNmN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJEQktDQU1QMjAyNi9hdWxhaW50ZXJuYS53ZWJwIiwiaWF0IjoxNzY4NDkxODk2LCJleHAiOjE4MDAwMjc4OTZ9.nX2lSzq1_fS9aQLxWL_RnuK9u4eZWPN4N5DXVsM5YEc" 
+            src="https://vmkiafrmwcbvlxpzcctq.supabase.co/storage/v1/object/public/imagnes/aulainterna.webp" 
             alt="Treino Interno DBK" 
             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
           />
