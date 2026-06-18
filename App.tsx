@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import Hero from './components/Hero';
 import Problem from './components/Problem';
 import Solution from './components/Solution';
@@ -35,6 +36,8 @@ function App() {
       >
         <MessageCircle className="w-6 h-6" />
       </a>
+
+      <SpeedInsights />
     </div>
   );
 }
